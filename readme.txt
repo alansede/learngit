@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Create a new branch is quick and simple.
 Git branch management.
 For another one.
+This is a file of anothoer one.
+
